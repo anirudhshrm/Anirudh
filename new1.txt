@@ -1,0 +1,17 @@
+git is a version control system 
+version control system is the tools that helps to track changes in code git is a version control system it is more popular , free and open source , fast and scalable.
+repositories is what in which we store data in a large quantity .
+
+version control system  track all the files , who and why they made changes in this.
+version control system is also known as revision control system or source code management.
+version control system is the tools that track changes in code git is version control system and github is global repository and git is local repository.
+advantages of vcs:
+helps to ship products faster.
+improves visibility.
+traceability for every change ever made.
+teams collaborate arou d the world.
+
+type sof vcs(version control system):
+local version control system
+centralized version control system
+distributed version control system
